@@ -20,13 +20,15 @@ The workshop will focus on a broad range of issues, including but not limited to
 
 ## Format & Attendance
 
-This is a 1-day non-archival workshop featuring invited keynotes, spotlight talks, and a poster & networking session. All AAAI-26 attendees are welcome to participate. A total of S$1,000 in prizes will be awarded to the best spotlight and poster presentations.
+This is a 1-day **non-archival** workshop featuring invited keynotes, spotlight talks, and a poster & networking session. All AAAI-26 attendees are welcome to participate. A total of **S$1,000 in prizes** will be awarded to the best spotlight and poster presentations.
 
 ## Submission Requirements
 
-Extended abstracts of up to 2 pages (excluding references), using the AAAI-26 Author Kit. Submissions may be unpublished, in-progress, concurrently submitted, or recently published works.
+Extended abstracts of up to **2 pages (excluding references)**, using the AAAI-26 Author Kit. Submissions may be unpublished, in-progress, concurrently submitted, or recently published works.
 
 Submissions will be managed on the OpenReview platform. Each submission will undergo a peer review process. Review criteria will include relevance to the workshop theme, technical soundness, originality, and potential to spark meaningful discussion during the workshop. Submissions and reviews will not be made public.
+
+**The submission deadline is October 22nd, 2025.** A submission link will be made available on the workshop website closer to the deadline.
 
 ## Workshop Committee
 
