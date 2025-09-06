@@ -6,7 +6,7 @@ layout: page
 # Workshop on Artificial Intelligence for Air Transportation (AI4AT)
 **at the Fortieth AAAI Conference on Artificial Intelligence (AAAI-26) in Singapore**
 
-{% include figure.html img="workshop-logo.png" width="50%" %}
+{% include figure.html img="workshop-logo.jpg" width="50%" %}
 
 Academic, industrial, and governmental interest in applying artificial intelligence (AI) to air transportation has accelerated markedly in recent years, fueled by the urgent need to make aviation systems more efficient, resilient, and environmentally sustainable. The inaugural Workshop on Artificial Intelligence for Air Transportation (AI4AT) will bring together researchers and practitioners to explore how AI can address pressing challenges across air traffic management, airport operations, advanced air mobility, and aviation safety. Held in conjunction with [AAAI-26](https://aaai.org/conference/aaai/aaai-26/) in Singapore — a global hub for aviation innovation and regulatory leadership — AI4AT will provide a dynamic forum for interdisciplinary exchange and collaboration.
 
