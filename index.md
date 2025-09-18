@@ -20,7 +20,7 @@ The workshop will focus on a broad range of issues, including but not limited to
 
 ## Format & Attendance
 
-This is a 1-day **non-archival** workshop featuring invited keynotes, spotlight talks, and a poster & networking session. All AAAI-26 attendees are welcome to participate. A total of **S$1,000 in prizes** will be awarded to the best spotlight and poster presentations.
+This is a 1-day **non-archival** workshop featuring invited keynotes, spotlight talks, and a poster & networking session. All AAAI-26 attendees are welcome to participate. A total of **S$600 in prizes** will be awarded to the best spotlight and poster presentations.
 
 ## Submission Requirements
 
