@@ -28,7 +28,7 @@ Extended abstracts of up to **2 pages (excluding references)**, using the AAAI-2
 
 Submissions will be managed on the OpenReview platform. Each submission will undergo a peer review process. Review criteria will include relevance to the workshop theme, technical soundness, originality, and potential to spark meaningful discussion during the workshop. Submissions and reviews will not be made public.
 
-Please make your submissions [here](https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4AT). Submissions should not be anonymized. **The submission deadline is October 22nd, 2025.**
+Please make your submissions [here](https://openreview.net/group?id=AAAI.org/2026/Workshop/AI4AT). Submissions should not be anonymized. ~~The submission deadline is October 22nd, 2025.~~ **Due to the recent OpenReview downtime, we're extending the submission deadline by 48 hours. The new deadline is October 24th, 2025 at 23:59 AoE (UTC−12).**
 
 ## Workshop Committee
 
